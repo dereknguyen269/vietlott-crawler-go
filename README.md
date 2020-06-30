@@ -2,7 +2,7 @@
 Simple tool get lastest results from [vietlott.vn](https://vietlott.vn/).
 
 # Live Demo
-[https://vietlott-crawler-go.herokuapp.com/getResults](https://vietlott-crawler-go.herokuapp.com/getResults)
+[https://vietlott-crawler-go.herokuapp.com/getResults?type=mega645](https://vietlott-crawler-go.herokuapp.com/getResults?type=mega645)
 
 # Usage
 
